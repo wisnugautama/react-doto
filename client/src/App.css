@@ -1,0 +1,123 @@
+.App {
+  text-align: center;
+}
+
+.loading {
+  margin-left: 29%;
+}
+
+.cari {
+  width: 30%;
+  margin-left: 35%;
+  margin-bottom: 10px;
+}
+
+.judul {
+  text-align: center;
+  color: beige;
+}
+
+.login {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  color: beige;
+  max-width: 45%;
+  background-color: black;
+  padding: 2%;
+  margin-top: 7%;
+}
+
+.detail-card {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home {
+  margin-left: 5%;
+  margin-top: 20px;
+}
+
+.col-md-6 {
+  border: 1px solid;
+  padding: 10px;
+  background-color: beige;
+}
+
+.x {
+  margin-top: 80px;
+}
+
+h1 {
+  color: white;
+}
+
+nav {
+  background-color: black;
+}
+
+.team img {
+  min-height: 294px;
+  max-width: 273.28px;
+}
+.team {
+  margin-left: auto;
+  margin-right: 7%; 
+  margin-bottom: 20px;
+}
+
+.ab {
+  margin-left: 180px;
+  margin-right: auto;
+}
+
+.table {
+  background-color: beige;
+}
+
+.zoom {
+  transition: transform .2s;
+}
+.zoom:hover {
+  transform: scale(0.9);
+  background-color: black;
+}
+
+body {
+  background-image: url('https://www.thenerdmag.com/wp-content/uploads/2018/05/Dota-2-Game-Esports-.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: green;
+  font-family: 'Crimson Text', serif;
+}
+
+.navbar a {
+  color: beige;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
